@@ -6,3 +6,7 @@ function NewDe1Func()
 {
 	alert("dev 1 add new function");
 }
+//dev 1: add new user feature
+function NewDev1Func(){
+	alert("dev 1: add new user feature");
+}
